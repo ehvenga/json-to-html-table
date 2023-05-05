@@ -1,0 +1,34 @@
+{
+  "name": "@ehvenga/json-to-html-table",
+  "version": "0.0.1",
+  "description": "The \"json-to-html-table\" package is a useful tool for developers who need to quickly and easily convert JSON data into an HTML table. With just a few lines of code, you can use this package to take any valid JSON data and generate an HTML table that can be displayed on a webpage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehvenga/json-to-html-table.git"
+  },
+  "keywords": [
+    "json",
+    "json",
+    "convertor",
+    "json-to-table",
+    "json-to-html",
+    "json-to-html-table",
+    "json",
+    "table",
+    "html",
+    "to",
+    "json-html",
+    "json-table",
+    "html-table"
+  ],
+  "author": "Hari Vengadesh (ehvenga)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ehvenga/json-to-html-table/issues"
+  },
+  "homepage": "https://github.com/ehvenga/json-to-html-table#readme"
+}
