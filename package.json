@@ -1,6 +1,6 @@
 {
   "name": "@ehvenga/json-to-html-table",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The \"json-to-html-table\" package is a useful tool for React developers who need to quickly and easily convert JSON data into an HTML table. With just a few lines of code, you can use this package to take any valid JSON data and generate an HTML table that can be displayed on a webpage.",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
